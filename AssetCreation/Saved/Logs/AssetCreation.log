@@ -4064,3 +4064,354 @@ LogInit: Object subsystem initialized
 [2025.12.11-12.05.05:968][598]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2057.966797
 [2025.12.11-12.05.06:969][601]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.11-12.05.06:969][602]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2058.634033, Update Interval: 338.879974
+[2025.12.11-12.08.48:048][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.12.11-12.08.48:064][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/X6/0DRRMW5UNZA5LYS3Q1FTBF_Auto1
+[2025.12.11-12.08.48:064][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/0DRRMW5UNZA5LYS3Q1FTBF_Auto1748886B24737AC39B1B9F4886FCB3167.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/X6/0DRRMW5UNZA5LYS3Q1FTBF_Auto1.uasset'
+[2025.12.11-12.08.48:086][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/83/XBDZ4YVD0E0TESGU4DTSNR_Auto1
+[2025.12.11-12.08.48:087][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/XBDZ4YVD0E0TESGU4DTSNR_Auto11B12198A46292CA8A2365F84399038C6.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/83/XBDZ4YVD0E0TESGU4DTSNR_Auto1.uasset'
+[2025.12.11-12.08.48:096][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/WO/Y46BU8E9WMZX304GFOXM9U_Auto1
+[2025.12.11-12.08.48:096][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Y46BU8E9WMZX304GFOXM9U_Auto16A4CACE3411CBB4278FBC48477F815B6.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/WO/Y46BU8E9WMZX304GFOXM9U_Auto1.uasset'
+[2025.12.11-12.08.48:108][264]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.084
+[2025.12.11-12.08.48:108][264]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.084
+[2025.12.11-12.08.48:110][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/KeyboardLightOne] ([1] browsable assets)...
+[2025.12.11-12.08.48:264][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/KeyboardLightOne.KeyboardLightOne]
+[2025.12.11-12.08.48:264][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/KeyboardLightOne]
+[2025.12.11-12.08.48:278][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/KeyboardLightOne_Auto1
+[2025.12.11-12.08.48:278][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/KeyboardLightOne_Auto1C6DE9F2346585FCEC8740E8CEB312E40.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/KeyboardLightOne_Auto1.uasset'
+[2025.12.11-12.08.48:283][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/KeyboardLightThree] ([1] browsable assets)...
+[2025.12.11-12.08.48:316][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/KeyboardLightThree.KeyboardLightThree]
+[2025.12.11-12.08.48:316][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/KeyboardLightThree]
+[2025.12.11-12.08.48:322][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/KeyboardLightThree_Auto1
+[2025.12.11-12.08.48:322][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/KeyboardLightThree_Auto153556469433BCE0927F11E9E75C42417.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/KeyboardLightThree_Auto1.uasset'
+[2025.12.11-12.08.48:327][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/KeyboardLightTwo] ([1] browsable assets)...
+[2025.12.11-12.08.48:353][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/KeyboardLightTwo.KeyboardLightTwo]
+[2025.12.11-12.08.48:353][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/KeyboardLightTwo]
+[2025.12.11-12.08.48:358][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/KeyboardLightTwo_Auto1
+[2025.12.11-12.08.48:358][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/KeyboardLightTwo_Auto1D92E1C8F4A70593A4D25E4949F79FFBB.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/KeyboardLightTwo_Auto1.uasset'
+[2025.12.11-12.08.48:363][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/Keyboard] ([1] browsable assets)...
+[2025.12.11-12.08.48:391][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/Keyboard.Keyboard]
+[2025.12.11-12.08.48:391][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/Keyboard]
+[2025.12.11-12.08.48:401][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/Keyboard_Auto1
+[2025.12.11-12.08.48:405][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Keyboard_Auto1DDE82AA8423EB580D4FD75A299833114.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/Keyboard_Auto1.uasset'
+[2025.12.11-12.08.48:413][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/TildaKey] ([1] browsable assets)...
+[2025.12.11-12.08.48:434][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/TildaKey.TildaKey]
+[2025.12.11-12.08.48:434][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/TildaKey]
+[2025.12.11-12.08.48:440][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/TildaKey_Auto1
+[2025.12.11-12.08.48:440][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/TildaKey_Auto1BB0973BD4CCC08D7D16D0A834F6FCD9F.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/TildaKey_Auto1.uasset'
+[2025.12.11-12.08.48:446][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/NineKey] ([1] browsable assets)...
+[2025.12.11-12.08.48:468][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/NineKey.NineKey]
+[2025.12.11-12.08.48:468][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/NineKey]
+[2025.12.11-12.08.48:475][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NineKey_Auto1
+[2025.12.11-12.08.48:476][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/NineKey_Auto1842CBC3E4CB7EC5BF10936B856FB4F3C.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NineKey_Auto1.uasset'
+[2025.12.11-12.08.48:481][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/ZeroKey] ([1] browsable assets)...
+[2025.12.11-12.08.48:502][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/ZeroKey.ZeroKey]
+[2025.12.11-12.08.48:502][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/ZeroKey]
+[2025.12.11-12.08.48:510][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/ZeroKey_Auto1
+[2025.12.11-12.08.48:510][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/ZeroKey_Auto12C758C714035BC82EA40C1B035C20AF9.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/ZeroKey_Auto1.uasset'
+[2025.12.11-12.08.48:514][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/QKey] ([1] browsable assets)...
+[2025.12.11-12.08.48:533][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/QKey.QKey]
+[2025.12.11-12.08.48:533][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/QKey]
+[2025.12.11-12.08.48:540][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/QKey_Auto1
+[2025.12.11-12.08.48:540][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/QKey_Auto1C9327A6743405739FCA31186C818F6A1.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/QKey_Auto1.uasset'
+[2025.12.11-12.08.48:544][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/WKey] ([1] browsable assets)...
+[2025.12.11-12.08.48:561][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/WKey.WKey]
+[2025.12.11-12.08.48:561][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/WKey]
+[2025.12.11-12.08.48:567][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/WKey_Auto1
+[2025.12.11-12.08.48:567][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/WKey_Auto1779668AA4A906988B8884D9D1EE388FB.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/WKey_Auto1.uasset'
+[2025.12.11-12.08.48:572][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/EKey] ([1] browsable assets)...
+[2025.12.11-12.08.48:586][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/EKey.EKey]
+[2025.12.11-12.08.48:586][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/EKey]
+[2025.12.11-12.08.48:593][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/EKey_Auto1
+[2025.12.11-12.08.48:593][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/EKey_Auto19D77F95B451BC684D44552928E8BC577.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/EKey_Auto1.uasset'
+[2025.12.11-12.08.48:599][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/TKey] ([1] browsable assets)...
+[2025.12.11-12.08.48:613][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/TKey.TKey]
+[2025.12.11-12.08.48:613][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/TKey]
+[2025.12.11-12.08.48:620][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/TKey_Auto1
+[2025.12.11-12.08.48:621][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/TKey_Auto1BF77DA214C7CB565D6DF77814CC9F6E4.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/TKey_Auto1.uasset'
+[2025.12.11-12.08.48:626][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/YKey] ([1] browsable assets)...
+[2025.12.11-12.08.48:641][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/YKey.YKey]
+[2025.12.11-12.08.48:641][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/YKey]
+[2025.12.11-12.08.48:648][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/YKey_Auto1
+[2025.12.11-12.08.48:648][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/YKey_Auto1110BEA1D4784FE5F87B231BE69746A0D.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/YKey_Auto1.uasset'
+[2025.12.11-12.08.48:653][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/UKey] ([1] browsable assets)...
+[2025.12.11-12.08.48:669][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/UKey.UKey]
+[2025.12.11-12.08.48:669][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/UKey]
+[2025.12.11-12.08.48:678][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/UKey_Auto1
+[2025.12.11-12.08.48:678][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/UKey_Auto1098FCD634C2924A1D4CC769DD1C18796.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/UKey_Auto1.uasset'
+[2025.12.11-12.08.48:683][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/IKey] ([1] browsable assets)...
+[2025.12.11-12.08.48:700][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/IKey.IKey]
+[2025.12.11-12.08.48:700][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/IKey]
+[2025.12.11-12.08.48:706][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/IKey_Auto1
+[2025.12.11-12.08.48:706][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/IKey_Auto12EF3E6E046EEE5326B7BAEB3824BAB31.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/IKey_Auto1.uasset'
+[2025.12.11-12.08.48:711][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/OneKey] ([1] browsable assets)...
+[2025.12.11-12.08.48:726][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/OneKey.OneKey]
+[2025.12.11-12.08.48:726][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/OneKey]
+[2025.12.11-12.08.48:733][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/OneKey_Auto1
+[2025.12.11-12.08.48:733][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/OneKey_Auto1D9F56408465C077EC41FFCBD1002B91E.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/OneKey_Auto1.uasset'
+[2025.12.11-12.08.48:737][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/RKey] ([1] browsable assets)...
+[2025.12.11-12.08.48:752][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/RKey.RKey]
+[2025.12.11-12.08.48:752][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/RKey]
+[2025.12.11-12.08.48:758][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/RKey_Auto1
+[2025.12.11-12.08.48:758][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/RKey_Auto11F46E91A4B538EC06985F388627570C5.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/RKey_Auto1.uasset'
+[2025.12.11-12.08.48:764][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/OKey] ([1] browsable assets)...
+[2025.12.11-12.08.48:778][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/OKey.OKey]
+[2025.12.11-12.08.48:778][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/OKey]
+[2025.12.11-12.08.48:784][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/OKey_Auto1
+[2025.12.11-12.08.48:784][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/OKey_Auto1A45EB6A246F310413036BDA052381A5B.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/OKey_Auto1.uasset'
+[2025.12.11-12.08.48:791][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/PKey] ([1] browsable assets)...
+[2025.12.11-12.08.48:806][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/PKey.PKey]
+[2025.12.11-12.08.48:806][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/PKey]
+[2025.12.11-12.08.48:811][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/PKey_Auto1
+[2025.12.11-12.08.48:812][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/PKey_Auto1D6853F8249BA32750CD8EDA96B777813.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/PKey_Auto1.uasset'
+[2025.12.11-12.08.48:817][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/EscapeKey] ([1] browsable assets)...
+[2025.12.11-12.08.48:834][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/EscapeKey.EscapeKey]
+[2025.12.11-12.08.48:834][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/EscapeKey]
+[2025.12.11-12.08.48:840][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/EscapeKey_Auto1
+[2025.12.11-12.08.48:840][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/EscapeKey_Auto1475327F24E2692B9B0168B8F1336D017.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/EscapeKey_Auto1.uasset'
+[2025.12.11-12.08.48:846][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/TabKey] ([1] browsable assets)...
+[2025.12.11-12.08.48:863][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/TabKey.TabKey]
+[2025.12.11-12.08.48:863][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/TabKey]
+[2025.12.11-12.08.48:871][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/TabKey_Auto1
+[2025.12.11-12.08.48:871][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/TabKey_Auto1AAEB0FB9430BA54E911908A905144EB0.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/TabKey_Auto1.uasset'
+[2025.12.11-12.08.48:877][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/CapsKey] ([1] browsable assets)...
+[2025.12.11-12.08.48:894][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/CapsKey.CapsKey]
+[2025.12.11-12.08.48:894][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/CapsKey]
+[2025.12.11-12.08.48:901][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/CapsKey_Auto1
+[2025.12.11-12.08.48:901][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/CapsKey_Auto19FA34B584C11DEABC4521593D8E61252.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/CapsKey_Auto1.uasset'
+[2025.12.11-12.08.48:906][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/ShiftKey] ([1] browsable assets)...
+[2025.12.11-12.08.48:923][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/ShiftKey.ShiftKey]
+[2025.12.11-12.08.48:923][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/ShiftKey]
+[2025.12.11-12.08.48:929][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/ShiftKey_Auto1
+[2025.12.11-12.08.48:929][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/ShiftKey_Auto14651EAB74B37CDEC852395816C244000.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/ShiftKey_Auto1.uasset'
+[2025.12.11-12.08.48:935][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/CtrlKey] ([1] browsable assets)...
+[2025.12.11-12.08.48:949][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/CtrlKey.CtrlKey]
+[2025.12.11-12.08.48:949][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/CtrlKey]
+[2025.12.11-12.08.48:955][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/CtrlKey_Auto1
+[2025.12.11-12.08.48:955][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/CtrlKey_Auto1174CABE44A3F3C1D534D89B0870D75A9.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/CtrlKey_Auto1.uasset'
+[2025.12.11-12.08.48:960][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/SpaceKey] ([1] browsable assets)...
+[2025.12.11-12.08.48:975][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/SpaceKey.SpaceKey]
+[2025.12.11-12.08.48:975][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/SpaceKey]
+[2025.12.11-12.08.48:981][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/SpaceKey_Auto1
+[2025.12.11-12.08.48:981][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/SpaceKey_Auto1BFD18346447DE3F5C02B759B605BD98F.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/SpaceKey_Auto1.uasset'
+[2025.12.11-12.08.48:987][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/WindowsKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:000][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/WindowsKey.WindowsKey]
+[2025.12.11-12.08.49:000][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/WindowsKey]
+[2025.12.11-12.08.49:007][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/WindowsKey_Auto1
+[2025.12.11-12.08.49:007][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/WindowsKey_Auto12D13B67C4EB8D9B42C7EA58DB9214FF3.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/WindowsKey_Auto1.uasset'
+[2025.12.11-12.08.49:013][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/TwoKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:027][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/TwoKey.TwoKey]
+[2025.12.11-12.08.49:027][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/TwoKey]
+[2025.12.11-12.08.49:033][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/TwoKey_Auto1
+[2025.12.11-12.08.49:034][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/TwoKey_Auto188F3AE2F4837AA68319622A2DFF50882.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/TwoKey_Auto1.uasset'
+[2025.12.11-12.08.49:040][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/EnterKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:057][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/EnterKey.EnterKey]
+[2025.12.11-12.08.49:057][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/EnterKey]
+[2025.12.11-12.08.49:063][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/EnterKey_Auto1
+[2025.12.11-12.08.49:063][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/EnterKey_Auto163A07BA948F81F53F9B5FB8CACBCD9D7.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/EnterKey_Auto1.uasset'
+[2025.12.11-12.08.49:069][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/RShiftKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:084][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/RShiftKey.RShiftKey]
+[2025.12.11-12.08.49:084][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/RShiftKey]
+[2025.12.11-12.08.49:093][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/RShiftKey_Auto1
+[2025.12.11-12.08.49:093][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/RShiftKey_Auto1FF7C0D044CDC301459909B9879411BC2.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/RShiftKey_Auto1.uasset'
+[2025.12.11-12.08.49:097][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/BackKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:114][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/BackKey.BackKey]
+[2025.12.11-12.08.49:114][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/BackKey]
+[2025.12.11-12.08.49:121][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/BackKey_Auto1
+[2025.12.11-12.08.49:121][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/BackKey_Auto1EEE4708B412C9774BA0F26B137CADF8B.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/BackKey_Auto1.uasset'
+[2025.12.11-12.08.49:126][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/AKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:143][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/AKey.AKey]
+[2025.12.11-12.08.49:143][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/AKey]
+[2025.12.11-12.08.49:151][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/AKey_Auto1
+[2025.12.11-12.08.49:151][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/AKey_Auto181430C4743553721B38834928E7E823C.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/AKey_Auto1.uasset'
+[2025.12.11-12.08.49:157][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/AltKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:173][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/AltKey.AltKey]
+[2025.12.11-12.08.49:173][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/AltKey]
+[2025.12.11-12.08.49:181][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/AltKey_Auto1
+[2025.12.11-12.08.49:181][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/AltKey_Auto1793924D8467B2B2AAC9D66BF713C69A4.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/AltKey_Auto1.uasset'
+[2025.12.11-12.08.49:187][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/SKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:201][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/SKey.SKey]
+[2025.12.11-12.08.49:201][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/SKey]
+[2025.12.11-12.08.49:208][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/SKey_Auto1
+[2025.12.11-12.08.49:210][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/SKey_Auto17EA3FF994D28D22E1C15CE920166672D.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/SKey_Auto1.uasset'
+[2025.12.11-12.08.49:214][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/DKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:232][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/DKey.DKey]
+[2025.12.11-12.08.49:232][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/DKey]
+[2025.12.11-12.08.49:239][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/DKey_Auto1
+[2025.12.11-12.08.49:239][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/DKey_Auto15BB45FE54BF5690F6F70BF99AD8F400D.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/DKey_Auto1.uasset'
+[2025.12.11-12.08.49:244][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/FKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:258][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/FKey.FKey]
+[2025.12.11-12.08.49:258][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/FKey]
+[2025.12.11-12.08.49:264][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/FKey_Auto1
+[2025.12.11-12.08.49:264][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/FKey_Auto1E5D3350C47B4FC9B06F11F924B92DF55.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/FKey_Auto1.uasset'
+[2025.12.11-12.08.49:271][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/GKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:289][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/GKey.GKey]
+[2025.12.11-12.08.49:290][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/GKey]
+[2025.12.11-12.08.49:297][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/GKey_Auto1
+[2025.12.11-12.08.49:297][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/GKey_Auto1539F34F64731D16AD6EB75809FCC511E.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/GKey_Auto1.uasset'
+[2025.12.11-12.08.49:302][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/HKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:316][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/HKey.HKey]
+[2025.12.11-12.08.49:316][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/HKey]
+[2025.12.11-12.08.49:322][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/HKey_Auto1
+[2025.12.11-12.08.49:323][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/HKey_Auto13DA150894DCBFDA5DA5C0CA05C28366E.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/HKey_Auto1.uasset'
+[2025.12.11-12.08.49:328][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/JKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:343][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/JKey.JKey]
+[2025.12.11-12.08.49:343][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/JKey]
+[2025.12.11-12.08.49:351][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/JKey_Auto1
+[2025.12.11-12.08.49:351][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/JKey_Auto1CBAFE87443997930C6D61BA74F515116.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/JKey_Auto1.uasset'
+[2025.12.11-12.08.49:356][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/ThreeKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:371][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/ThreeKey.ThreeKey]
+[2025.12.11-12.08.49:371][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/ThreeKey]
+[2025.12.11-12.08.49:379][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/ThreeKey_Auto1
+[2025.12.11-12.08.49:379][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/ThreeKey_Auto104A5E683463C3A352D1837B1D4360659.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/ThreeKey_Auto1.uasset'
+[2025.12.11-12.08.49:385][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/LKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:398][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/LKey.LKey]
+[2025.12.11-12.08.49:398][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/LKey]
+[2025.12.11-12.08.49:406][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/LKey_Auto1
+[2025.12.11-12.08.49:406][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/LKey_Auto1AC23A40E43C0A305200EA6B2227B6878.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/LKey_Auto1.uasset'
+[2025.12.11-12.08.49:412][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/ZKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:425][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/ZKey.ZKey]
+[2025.12.11-12.08.49:425][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/ZKey]
+[2025.12.11-12.08.49:433][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/ZKey_Auto1
+[2025.12.11-12.08.49:433][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/ZKey_Auto122C171B845C7FC27F635D182FD3CF020.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/ZKey_Auto1.uasset'
+[2025.12.11-12.08.49:439][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/XKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:452][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/XKey.XKey]
+[2025.12.11-12.08.49:452][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/XKey]
+[2025.12.11-12.08.49:462][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/XKey_Auto1
+[2025.12.11-12.08.49:463][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/XKey_Auto13B453D9645478D4F161076A3B2DEED45.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/XKey_Auto1.uasset'
+[2025.12.11-12.08.49:467][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/CKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:481][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/CKey.CKey]
+[2025.12.11-12.08.49:482][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/CKey]
+[2025.12.11-12.08.49:488][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/CKey_Auto1
+[2025.12.11-12.08.49:489][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/CKey_Auto1351122144ACD7EC22C30C3B9823FC856.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/CKey_Auto1.uasset'
+[2025.12.11-12.08.49:495][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/VKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:508][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/VKey.VKey]
+[2025.12.11-12.08.49:508][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/VKey]
+[2025.12.11-12.08.49:514][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/VKey_Auto1
+[2025.12.11-12.08.49:514][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/VKey_Auto1F31EB3D8463DC09A8D10148A067BE3BE.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/VKey_Auto1.uasset'
+[2025.12.11-12.08.49:520][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/BKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:534][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/BKey.BKey]
+[2025.12.11-12.08.49:534][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/BKey]
+[2025.12.11-12.08.49:541][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/BKey_Auto1
+[2025.12.11-12.08.49:541][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/BKey_Auto1FC9ED1434845C74CC11E9CAF27A4B126.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/BKey_Auto1.uasset'
+[2025.12.11-12.08.49:546][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/MKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:561][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/MKey.MKey]
+[2025.12.11-12.08.49:561][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/MKey]
+[2025.12.11-12.08.49:568][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/MKey_Auto1
+[2025.12.11-12.08.49:569][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/MKey_Auto14A5772ED4F4BA721EFA63CA2D61A65AF.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/MKey_Auto1.uasset'
+[2025.12.11-12.08.49:574][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/KKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:587][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/KKey.KKey]
+[2025.12.11-12.08.49:587][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/KKey]
+[2025.12.11-12.08.49:594][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/KKey_Auto1
+[2025.12.11-12.08.49:594][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/KKey_Auto19DD93AF64C6E2A59A0B0DF83251E3D5B.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/KKey_Auto1.uasset'
+[2025.12.11-12.08.49:601][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/NKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:618][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/NKey.NKey]
+[2025.12.11-12.08.49:618][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/NKey]
+[2025.12.11-12.08.49:624][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NKey_Auto1
+[2025.12.11-12.08.49:624][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/NKey_Auto1DC8CACD84929D496C28499A5025AAA82.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NKey_Auto1.uasset'
+[2025.12.11-12.08.49:630][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/NumOneKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:644][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/NumOneKey.NumOneKey]
+[2025.12.11-12.08.49:644][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/NumOneKey]
+[2025.12.11-12.08.49:652][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NumOneKey_Auto1
+[2025.12.11-12.08.49:652][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/NumOneKey_Auto1825A3DB348DCF94C021AB7BAC986A738.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NumOneKey_Auto1.uasset'
+[2025.12.11-12.08.49:658][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/FourKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:674][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/FourKey.FourKey]
+[2025.12.11-12.08.49:674][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/FourKey]
+[2025.12.11-12.08.49:682][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/FourKey_Auto1
+[2025.12.11-12.08.49:683][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/FourKey_Auto1E3DCD2F240014A19E546D9AA3B167E42.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/FourKey_Auto1.uasset'
+[2025.12.11-12.08.49:690][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/NumTwoKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:707][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/NumTwoKey.NumTwoKey]
+[2025.12.11-12.08.49:708][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/NumTwoKey]
+[2025.12.11-12.08.49:718][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NumTwoKey_Auto1
+[2025.12.11-12.08.49:718][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/NumTwoKey_Auto199CF7837400567E626CFF9A0EEEA767A.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NumTwoKey_Auto1.uasset'
+[2025.12.11-12.08.49:726][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/NumThreeKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:741][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/NumThreeKey.NumThreeKey]
+[2025.12.11-12.08.49:741][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/NumThreeKey]
+[2025.12.11-12.08.49:748][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NumThreeKey_Auto1
+[2025.12.11-12.08.49:748][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/NumThreeKey_Auto1731514C3488A933599826A984A9FE398.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NumThreeKey_Auto1.uasset'
+[2025.12.11-12.08.49:754][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/NumFourKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:770][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/NumFourKey.NumFourKey]
+[2025.12.11-12.08.49:770][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/NumFourKey]
+[2025.12.11-12.08.49:777][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NumFourKey_Auto1
+[2025.12.11-12.08.49:777][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/NumFourKey_Auto1BF67CED74CB9A4DAC32A9EBFEAF14DF6.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NumFourKey_Auto1.uasset'
+[2025.12.11-12.08.49:783][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/NumSixKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:798][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/NumSixKey.NumSixKey]
+[2025.12.11-12.08.49:798][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/NumSixKey]
+[2025.12.11-12.08.49:806][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NumSixKey_Auto1
+[2025.12.11-12.08.49:806][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/NumSixKey_Auto1DBA895B444768ADBA3B2A69766628EA8.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NumSixKey_Auto1.uasset'
+[2025.12.11-12.08.49:812][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/NumNineKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:827][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/NumNineKey.NumNineKey]
+[2025.12.11-12.08.49:827][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/NumNineKey]
+[2025.12.11-12.08.49:833][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NumNineKey_Auto1
+[2025.12.11-12.08.49:833][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/NumNineKey_Auto195E4C9494099A0F8BADF4E927B5FB356.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NumNineKey_Auto1.uasset'
+[2025.12.11-12.08.49:839][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/NumEightKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:854][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/NumEightKey.NumEightKey]
+[2025.12.11-12.08.49:854][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/NumEightKey]
+[2025.12.11-12.08.49:860][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NumEightKey_Auto1
+[2025.12.11-12.08.49:860][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/NumEightKey_Auto10B3D51DD4F0EED474C9CB2B60D8A6619.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NumEightKey_Auto1.uasset'
+[2025.12.11-12.08.49:866][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/NumSevenKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:880][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/NumSevenKey.NumSevenKey]
+[2025.12.11-12.08.49:880][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/NumSevenKey]
+[2025.12.11-12.08.49:886][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NumSevenKey_Auto1
+[2025.12.11-12.08.49:887][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/NumSevenKey_Auto1752961894D28E1333AEA2D8F45E0172A.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NumSevenKey_Auto1.uasset'
+[2025.12.11-12.08.49:891][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/LeftArrowKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:904][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/LeftArrowKey.LeftArrowKey]
+[2025.12.11-12.08.49:904][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/LeftArrowKey]
+[2025.12.11-12.08.49:915][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/LeftArrowKey_Auto1
+[2025.12.11-12.08.49:915][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/LeftArrowKey_Auto19867685B41F272A0DAD3EF9A6DA79F6F.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/LeftArrowKey_Auto1.uasset'
+[2025.12.11-12.08.49:920][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/DownArrowKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:933][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/DownArrowKey.DownArrowKey]
+[2025.12.11-12.08.49:933][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/DownArrowKey]
+[2025.12.11-12.08.49:939][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/DownArrowKey_Auto1
+[2025.12.11-12.08.49:940][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/DownArrowKey_Auto11F8F7CD9413C32452A5FA6BA8B314039.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/DownArrowKey_Auto1.uasset'
+[2025.12.11-12.08.49:946][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/UpArrowKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:961][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/UpArrowKey.UpArrowKey]
+[2025.12.11-12.08.49:961][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/UpArrowKey]
+[2025.12.11-12.08.49:967][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/UpArrowKey_Auto1
+[2025.12.11-12.08.49:967][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/UpArrowKey_Auto134FF71F343DA8D2758C8639A135E83FE.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/UpArrowKey_Auto1.uasset'
+[2025.12.11-12.08.49:973][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/NumFiveKey] ([1] browsable assets)...
+[2025.12.11-12.08.49:988][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/NumFiveKey.NumFiveKey]
+[2025.12.11-12.08.49:988][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/NumFiveKey]
+[2025.12.11-12.08.49:994][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NumFiveKey_Auto1
+[2025.12.11-12.08.49:996][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/NumFiveKey_Auto117E90074482E586A3F6135B452698FE4.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/NumFiveKey_Auto1.uasset'
+[2025.12.11-12.08.50:001][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/FiveKey] ([1] browsable assets)...
+[2025.12.11-12.08.50:017][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/FiveKey.FiveKey]
+[2025.12.11-12.08.50:017][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/FiveKey]
+[2025.12.11-12.08.50:025][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/FiveKey_Auto1
+[2025.12.11-12.08.50:025][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/FiveKey_Auto1AB300F0C491CAA3EAE30EA9946FD7344.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/FiveKey_Auto1.uasset'
+[2025.12.11-12.08.50:031][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/RightArrowKey] ([1] browsable assets)...
+[2025.12.11-12.08.50:046][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/RightArrowKey.RightArrowKey]
+[2025.12.11-12.08.50:046][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/RightArrowKey]
+[2025.12.11-12.08.50:053][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/RightArrowKey_Auto1
+[2025.12.11-12.08.50:053][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/RightArrowKey_Auto16EE0B18546B3271183F60190AAA68ADC.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/RightArrowKey_Auto1.uasset'
+[2025.12.11-12.08.50:058][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/SixKey] ([1] browsable assets)...
+[2025.12.11-12.08.50:075][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/SixKey.SixKey]
+[2025.12.11-12.08.50:075][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/SixKey]
+[2025.12.11-12.08.50:082][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/SixKey_Auto1
+[2025.12.11-12.08.50:082][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/SixKey_Auto1062E65374DE634814C026694FB239DE3.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/SixKey_Auto1.uasset'
+[2025.12.11-12.08.50:089][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/SevenKey] ([1] browsable assets)...
+[2025.12.11-12.08.50:102][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/SevenKey.SevenKey]
+[2025.12.11-12.08.50:102][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/SevenKey]
+[2025.12.11-12.08.50:108][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/SevenKey_Auto1
+[2025.12.11-12.08.50:108][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/SevenKey_Auto18FCED6A4471019392F47DCAB235D7AAF.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/SevenKey_Auto1.uasset'
+[2025.12.11-12.08.50:116][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/EightKey] ([1] browsable assets)...
+[2025.12.11-12.08.50:132][264]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AssetCreation/PlayerObjects/Keyboard/EightKey.EightKey]
+[2025.12.11-12.08.50:132][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/EightKey]
+[2025.12.11-12.08.50:138][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/EightKey_Auto1
+[2025.12.11-12.08.50:138][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/EightKey_Auto1D7162A2E47E3C4740DE60C889965A1C1.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/EightKey_Auto1.uasset'
+[2025.12.11-12.08.50:145][264]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AssetCreation/PlayerObjects/Keyboard/BP_Keyboard] ([2] browsable assets)...
+[2025.12.11-12.08.50:161][264]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AssetCreation/PlayerObjects/Keyboard/BP_Keyboard.BP_Keyboard]
+[2025.12.11-12.08.50:161][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/PlayerObjects/Keyboard/BP_Keyboard]
+[2025.12.11-12.08.50:186][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/BP_Keyboard_Auto1
+[2025.12.11-12.08.50:186][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/BP_Keyboard_Auto146469A274D0D23702254918FBF55CE0C.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/PlayerObjects/Keyboard/BP_Keyboard_Auto1.uasset'
+[2025.12.11-12.08.50:192][264]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AssetCreation/ModularOffice/ModularWindowWalls/WindowWallMiddle/ModularWallWindowMiddle_WallWindowMiddle03_ModularWallWindowMiddle_WallWindowMiddle03/GC_BP_WindowWallMiddleGlass] ([1] browsable assets)...
+[2025.12.11-12.08.50:210][264]OBJ SavePackage:     Rendered thumbnail for [GeometryCollection /Game/AssetCreation/ModularOffice/ModularWindowWalls/WindowWallMiddle/ModularWallWindowMiddle_WallWindowMiddle03_ModularWallWindowMiddle_WallWindowMiddle03/GC_BP_WindowWallMiddleGlass.GC_BP_WindowWallMiddleGlass]
+[2025.12.11-12.08.50:210][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/AssetCreation/ModularOffice/ModularWindowWalls/WindowWallMiddle/ModularWallWindowMiddle_WallWindowMiddle03_ModularWallWindowMiddle_WallWindowMiddle03/GC_BP_WindowWallMiddleGlass]
+[2025.12.11-12.08.50:226][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetCreation/ModularOffice/ModularWindowWalls/WindowWallMiddle/ModularWallWindowMiddle_WallWindowMiddle03_ModularWallWindowMiddle_WallWindowMiddle03/GC_BP_WindowWallMiddleGlass_Auto1
+[2025.12.11-12.08.50:226][264]LogSavePackage: Moving 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/GC_BP_WindowWallMiddleGlass_Auto4A733E4640075F8DB28CABA641C2BAF7.tmp' to 'G:/st20300362/3DSMax/3DSMax/AssetCreation/Saved/Autosaves/Game/AssetCreation/ModularOffice/ModularWindowWalls/WindowWallMiddle/ModularWallWindowMiddle_WallWindowMiddle03_ModularWallWindowMiddle_WallWindowMiddle03/GC_BP_WindowWallMiddleGlass_Auto1.uasset'
+[2025.12.11-12.08.50:231][264]LogFileHelpers: Auto-saving content packages took 2.123
+[2025.12.11-12.11.22:642][722]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2434.643799
+[2025.12.11-12.11.23:642][725]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.11-12.11.23:642][725]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2435.309326, Update Interval: 315.337372
+[2025.12.11-12.17.13:354][774]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2785.359619
+[2025.12.11-12.17.14:357][777]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.11-12.17.14:357][777]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2786.027832, Update Interval: 347.482544
